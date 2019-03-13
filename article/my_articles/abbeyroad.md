@@ -1,11 +1,8 @@
-# Pink Floyd - The Wall
-## Claudio Satriano
-### From [https://en.wikipedia.org/wiki/The_Wall](https://en.wikipedia.org/wiki/The_Wall)
-
-
 # Abbey Road - The Beatles
 ## Hugo Martin
 ### From [https://en.wikipedia.org/wiki/Abbey_Road](https://en.wikipedia.org/wiki/Abbey_Road)
+
+![Cover](my_articles/abbeyroad.jpg)
 
 Abbey Road is the eleventh studio album by English rock band the Beatles, released on 26 September 1969 by Apple Records. The recording sessions for the album were the last in which all four Beatles participated. Although Let It Be was the final album that the Beatles completed before the band's dissolution in April 1970, most of the album had been recorded before the Abbey Road sessions began.[1] A two-sided hit single from the album, "Something" backed with "Come Together", released in October, topped the Billboard Hot 100 chart in the US.
 
