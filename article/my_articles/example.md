@@ -2,39 +2,13 @@
 ## Claudio Satriano
 ### From [https://en.wikipedia.org/wiki/The_Wall](https://en.wikipedia.org/wiki/The_Wall)
 
-The Wall is the eleventh studio album by English rock band Pink Floyd, released
-in 1979 through Harvest and Columbia Records. Conceived during the In The Flesh
-tour, recording spanned nearly a year, from December 1978 to November 1979, and
-took place in France, England, New York, and Los Angeles. It was produced by Bob
-Erzin, who helped to refine the concept and bridge tensions during recording.
-Some of the outtakes from the recording sessions were used on the band's next
-album, The Final Cut (1983).
 
-![cover](https://upload.wikimedia.org/wikipedia/en/1/13/PinkFloydWallCoverOriginalNoText.jpg)
+# Abbey Road - The Beatles
+## Hugo Martin
+### From [https://en.wikipedia.org/wiki/Abbey_Road](https://en.wikipedia.org/wiki/Abbey_Road)
 
-A rock opera and a concept record, its story explores Pink, a jaded rockstar
-that bassist Roger Waters modeled after himself and band founder Syd Barrett.
-Pink's life begins with the loss of his father during the Second World War and
-continues with abuse from his schoolteachers, an overprotective mother, and the
-breakdown of his marriage; all contribute to his eventual self-imposed isolation
-from society, symbolised by a wall. The band, who were then struggling with
-personal and financial difficulties, supported the idea. The Wall is the last
-album to feature Pink Floyd as a quartet; keyboardist Richard Wright was fired
-by Waters during production, but stayed on as a salaried musician. The record
-was promoted with three singles: "Another Brick in the Wall, Part 2", "Run Like
-Hell", and "Comfortably Numb", the first of which became the band's only number
-one single in the US. From 1980 to 1981, the group embarked on The Wall Tour,
-which was notable for its elaborate theatrical effects. The concept was later
-adapted into a feature film of the same name, directed by Alan Parker and
-released in 1982.
+Abbey Road is the eleventh studio album by English rock band the Beatles, released on 26 September 1969 by Apple Records. The recording sessions for the album were the last in which all four Beatles participated. Although Let It Be was the final album that the Beatles completed before the band's dissolution in April 1970, most of the album had been recorded before the Abbey Road sessions began.[1] A two-sided hit single from the album, "Something" backed with "Come Together", released in October, topped the Billboard Hot 100 chart in the US.
 
-The Wall received mixed reviews from critics upon its release, many of whom
-found its contents to be overblown and pretentious. Retrospectively, it is
-considered one of the greatest albums of all time, and is one of the most
-well-known concept albums. The record was a commercial success, reaching number
-one in the US (where it stayed for 15 weeks), and number three in the UK. As of
-2018, the album has sold over 24 million copies, the second best-selling in the
-band's catalog, as well as one of the best-selling of all time.
+Abbey Road is a rock album that incorporates genres such as blues, pop, and progressive rock,[2] and it makes prominent use of the Moog synthesizer and the Leslie speaker. Side two contains a medley of song fragments edited together to form a single piece. The album was recorded amid a more enjoyable atmosphere than the Get Back/Let It Be sessions earlier in the year, but there were still frequent disagreements within the band. John Lennon had privately left the group by the time the album was released and McCartney publicly quit the following year.
 
-> I think things like 'Comfortably Numb' were the last embers of mine and
-> Roger's ability to work collaboratively together. David Gilmour
+Although Abbey Road was an immediate commercial success and reached  No. 1 in the UK and US, it initially received mixed reviews, some critics describing its music as inauthentic and bemoaning the production's artificial effects. Over time, the album became viewed as among the Beatles' best and many critics have ranked it as one of the greatest albums of all time. In particular, George Harrison's contributions, "Something" and "Here Comes the Sun", are considered to be among the best songs he wrote for the group. The album's cover, which features the four band members walking across a zebra crossing outside Abbey Road Studios, has become one of the most famous and imitated images in the history of popular music. 
